@@ -13,6 +13,8 @@
 
 </b>
 
+<hr>
+
 ### 💪 Skills
 #### Platforms & Languages
 <p>
