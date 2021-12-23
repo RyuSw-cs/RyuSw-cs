@@ -1,6 +1,6 @@
 <p>
   <a href="https://blog.naver.com/rsw1452" target="_blank"><img src="https://img.shields.io/badge/Blog-00C73C?style=flat-square&logo=Storyblok&logoColor=white"/></a>
-  <a href="mailto:rsw1452@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rsw1452@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:rsw1452@naver.com" target="_blank"><img src="https://img.shields.io/badge/rsw1452@gmail.com-EA4335?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://www.instagram.com/penguwin_sw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
