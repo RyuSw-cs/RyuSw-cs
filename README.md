@@ -8,10 +8,8 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuSw-cs&&show_icons=true&theme=vue)
 
 <p>
-  👋&nbsp; Hi there! I'm <b>mobile app developer</b> using Android and iOS. 🚀<br/>
-  Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
-  I hope to develop every beautiful things. ✨ <br/><br/>
+  안녕하세요!👋 안드로이드를 공부하는 유승우입니다:yum:<br/>
+  자바를 위주로 사용하고 코틀린을 공부하고 있습니다:star:<br/><br/>
 </p>
 
 ### 💪 Skills
