@@ -7,6 +7,7 @@
 <p>
   <strong>Hi there!👋 My name is Ryu Seung Woo</strong>:yum:<br/>
   I hope to grow with everyone:star:<br/>
+  Merry Christmas🎉🎉
 </p>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuSw-cs&&show_icons=true&theme=vue)
