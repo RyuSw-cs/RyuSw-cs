@@ -25,6 +25,8 @@
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&logoColor=white&color=A8B9CC"/></a>
+  <img src="https://img.shields.io/badge/C%23-11B48A?style=flat-square&logo=C Sharp&logoColor=white&color=00599C"/></a>
 </p>
  
 #### Tools
