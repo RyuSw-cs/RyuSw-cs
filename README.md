@@ -6,7 +6,7 @@
 
 
 <p>
-  <strong>Hi there!👋 My name is Ryu Seung Woo</strong>:yum:<br/>
+  <strong>Hi there!👋 My name is Yu Seung Woo</strong>:yum:<br/>
   I hope to grow with everyone:star:<br/>
 
 </p>
