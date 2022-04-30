@@ -1,3 +1,5 @@
+### My name is Seung Woo Yu, I hope to grow with everyone!:star:
+
 ##### 🏫 Soonchunhyang Univ. Multi Media Lab (2019.03~2021.08)
 ##### 🖥️ SoftSquard Rising Camp Android Session (2022.03 ~ 2022.04)
 ##### 🧑‍🏫 SoftSquard Rising Camp Android Session Mentor (2022.04 ~ )
@@ -5,14 +7,15 @@
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuSw-cs&&show_icons=true&theme=vue)
-
-</b>
-
 <p>
   <a href="https://blog.naver.com/rsw1452" target="_blank"><img src="https://img.shields.io/badge/Blog-00C73C?style=flat-square&logo=Storyblok&logoColor=white"/></a>
   <a href="mailto:rsw1452@naver.com" target="_blank"><img src="https://img.shields.io/badge/rsw1452@naver.com-EA4335?style=flat-square&logo=naver&logoColor=white"/></a>
   <a href="https://www.instagram.com/penguwin_sw/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
+
+
+</b>
+
 
 <hr>
 
