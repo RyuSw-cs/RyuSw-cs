@@ -1,8 +1,8 @@
 ### My name is Seung Woo Yu, I hope to grow with everyone!:star:
 
 ##### 🏫 Soonchunhyang Univ. Multi Media Lab (2019.03~2021.08)
-##### 🖥️ SoftSquard Rising Camp Android Session (2022.03 ~ 2022.04)
-##### 🧑‍🏫 SoftSquard Rising Camp Android Session Mentor (2022.04 ~ )
+##### 🖥️ SoftSquard Rising Camp Android Session 4th (2022.03 ~ 2022.04)
+##### 🧑‍🏫 SoftSquard Rising Camp Android Session 5th Mentor (2022.04 ~ )
 ##### 🧑🏻‍🤝‍🧑🏻 Central Makeus Challange 10th Android (2022.04 ~ )
 </br>
 
