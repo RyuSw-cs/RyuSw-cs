@@ -2,7 +2,7 @@
 
 ##### 🏫 Soonchunhyang Univ. Multi Media Lab (2019.03~2021.08)
 ##### 🖥️ SoftSquard Rising Camp Android Session 4th (2022.03 ~ 2022.04)
-##### 🧑‍🏫 SoftSquard Rising Camp Android Session 5th Mentor (2022.04 ~ )
+##### 🧑‍🏫 SoftSquard Rising Camp Android Session 5th Mentor (2022.04 ~ 2022.05)
 ##### 🧑🏻‍🤝‍🧑🏻 Central Makeus Challange 10th Android (2022.04 ~ )
 </br>
 
