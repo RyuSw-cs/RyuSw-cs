@@ -2,7 +2,7 @@
 
 ##### 🧑‍ SoftSquard Rising Camp Android Session 5th Mentor (2022.04 ~ 2022.05)
 ##### 🧑🏻‍🤝‍🧑🏻 Central Makeus Challange 10th Android (2022.04 ~ 2022.07)
-##### 🖥️ Samsumg SW Academy For Youth 8th (2022.07 ~ )
+##### 🖥️ Samsumg SW Academy For Youth 8th (2022.07 ~ 2023.04)
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuSw-cs&&show_icons=true&theme=vue)
