@@ -18,7 +18,7 @@
 
 <hr>
 
-### 💪 Skills
+### 💪 Portfolio
 #### Platform 
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -30,6 +30,13 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C-11B48A?style=flat-square&logo=C&logoColor=white&color=004382"/></a>
   <img src="https://img.shields.io/badge/C%23-11B48A?style=flat-square&logo=C Sharp&logoColor=white&color=67217A"/></a>
+</p>
+</b>
+
+#### Portfolio
+<p>
+  <a href="https://various-event-01c.notion.site/ce0f1f4cd05347f097533f891d36d57a" target="_blank"><img src="https://img.shields.io/badge/Portfolio-383733?style=flat-square&logo=Storybook&logoColor=white"/></a>
+  <a href="https://various-event-01c.notion.site/1df709db9afe443ab0b92532e6896a66?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Study-34A853?style=flat-square&logo=Android&logoColor=white"/></a>
 </p>
 </b>
 
