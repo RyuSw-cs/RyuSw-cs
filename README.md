@@ -3,7 +3,7 @@
 ##### 🧑🏻‍🤝‍🧑🏻 Central Makeus Challange 10th Android (2022.04 ~ 2022.07)
 ##### 🖥️ Samsumg SW Academy For Youth 8th (2022.07 ~ 2023.04)
 ##### 🔐 RaonSecure Auth R&D Team (2023.04 ~ ing)
-##### 🛴 Central Makeus Challange 15th Android (2024.05 ~ ing)
+##### 🛴 Central Makeus Challange 15th Android (2024.05 ~ 2024.08)
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyuSw-cs&&show_icons=true&theme=vue)
